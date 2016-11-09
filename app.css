@@ -1,4 +1,4 @@
-@import url("https://weloveiconfonts.com/api/?family=entypo");
+@import url("http://weloveiconfonts.com/api/?family=entypo");
 /* entypo */
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
@@ -66,6 +66,13 @@ h6 {
 .layout header.dark .title {
   color: #fff;
 }
+.layout header.accent {
+  background: #2273d2;
+  color: #fff;
+}
+.layout header.accent .title {
+  color: #fff;
+}
 .layout .content {
   margin-top: 10px;
   display: flex;
@@ -87,3 +94,5 @@ h6 {
   color: #fff;
 }
 
+
+/*# sourceMappingURL=app.css.map*/
