@@ -1,4 +1,4 @@
-@import url("http://weloveiconfonts.com/api/?family=entypo");
+@import url("https://weloveiconfonts.com/api/?family=entypo");
 /* entypo */
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
@@ -87,5 +87,3 @@ h6 {
   color: #fff;
 }
 
-
-/*# sourceMappingURL=app.css.map*/
